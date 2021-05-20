@@ -60,7 +60,13 @@ public class Category  implements java.io.Serializable {
         this.filmCategories = filmCategories;
     }
 
-
+  /**
+     * Modificacion de proyecto para Examen Trimestral
+     */
+    public void pruebaTrimestral(){
+        System.out.println("Modificacion de fichero");
+    }
+    
 
 
 }
